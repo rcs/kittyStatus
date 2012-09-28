@@ -1,0 +1,7 @@
+{
+  "name": "kittyStatus",
+  "version": "v0.1.0",
+  "engines": {
+    "node": "0.8.10"
+  }
+}
