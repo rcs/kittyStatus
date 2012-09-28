@@ -6,6 +6,8 @@ Bring your response code, get it back, with cute pictures to soothe the pain of 
 
 Open http://kittystatus/[code] and you'll get an http response back with that status code set.
 
+If you open them in a browser, you'll see wonderful things.
+
 Demo available at [kittystatus.herokuapp.com](http://kittystatus.herokuapp.com) .
 
 Examples:
